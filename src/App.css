@@ -1,0 +1,9 @@
+.Programers{
+  display: flex;
+  justify-content: space-between;
+
+}
+.Companies{
+  display: flex;
+  justify-content: space-between;
+}
